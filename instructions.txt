@@ -1,0 +1,4 @@
+1. Open cmd window -> npm i
+2. .env file -> SECRET_KEY=<insert your wallet private key>
+		SWAP_AMOUNT=<insert sol amount number you want invest (at least 1.0 sol)>
+3. cmd window -> npm run dev

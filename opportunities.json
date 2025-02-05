@@ -1,0 +1,14 @@
+[
+  {
+    "token": "wo1zgt8rfrYpvdVi4nidoj1SYfcR4pQx69bmNv2JLhQ",
+    "highestPool": "solana_432LhCBZ1eTD9Cj15oR3Bx9JgHGRMo4Z6PphmizrN5iG",
+    "lowestPool": "solana_BUPTMMrUnfeE5mk6L6ZUgrHtZo2qyeR44s9L6UGg1oQB",
+    "solNeededForProfit": 0.0003048820691767577
+  },
+  {
+    "token": "So11111111111111111111111111111111111111112",
+    "highestPool": "solana_8EzbUfvcRT1Q6RL462ekGkgqbxsPmwC5FMLQZhSPMjJ3",
+    "lowestPool": "solana_Czfq3xZZDmsdGdUyrNLtRhGc47cXcZtLG4crryfu44zE",
+    "solNeededForProfit": 0.8662102354401451
+  }
+]
