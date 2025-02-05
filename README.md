@@ -1,4 +1,4 @@
-# Arbitrage Trading Bot
+# Arbitrage Trading Bot (1% profits)
 
 - This project is an arbitrage trading bot for the Solana blockchain. 
 - It fetches Raydium, Orca, Meteora token pools from the CoinGecko API, filters them based on liquidity, and identifies arbitrage opportunities between the highest and lowest price pools. 
