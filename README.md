@@ -65,7 +65,9 @@ The **Solana Arbitrage Bot** continuously monitors price discrepancies across mu
 
 - **Funded Wallet**: Ensure your wallet has **at least 3 SOL** available to initiate trades. Insufficient funds will prevent the bot from performing arbitrage operations.
 - **Competitive Nature**: Arbitrage opportunities are often fleeting and competitive. While the bot is designed to find and execute profitable trades quickly, returns are not guaranteed. Strategic funding and active monitoring will enhance your results.
-
+- This bot currently use the rpc request and simple arbitrage strategy, so that it has some latency 1 or 2 blocks so that you can't make the big profit.
+   To remove the latency you must own your node then you can remove the latency and get the maximum benefit.
+   If you can provide me node, then I can build the perfect the arbitrage bot.
 ---
 
 ## 🙋‍♂️ Need Assistance?
