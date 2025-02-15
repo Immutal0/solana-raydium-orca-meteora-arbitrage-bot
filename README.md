@@ -68,6 +68,7 @@ The **Solana Arbitrage Bot** continuously monitors price discrepancies across mu
 - This bot currently use the rpc request and simple arbitrage strategy, so that it has some latency 1 or 2 blocks so that you can't make the big profit.
    To remove the latency you must own your node then you can remove the latency and get the maximum benefit.
    If you can provide me node, then I can build the perfect the arbitrage bot.
+- Now I am developing this bot using rust, then latency will be more reduce.
 ---
 
 ## 🙋‍♂️ Need Assistance?
